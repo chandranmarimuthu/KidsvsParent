@@ -1,0 +1,19 @@
+question_id,path_id,question,option1,option2,option3,answer,explanation
+dict_001,dictionary,What does curious mean?,Wanting to learn more,Feeling sleepy,Running fast,1,Curious means eager to know or learn something.
+dict_002,dictionary,Which word means to notice carefully?,Observe,Forget,Rush,1,To observe is to watch or notice something carefully.
+kural_001,thirukkural,What can a short piece of wisdom help us do?,Pause and think,Avoid learning,Win every argument,1,A kural invites reflection on our choices.
+kural_002,thirukkural,The first Kural compares the start of the world to what?,The first letter,A mountain,A river,1,It compares the beginning of the world with the first letter.
+trace_001,letter_tracing,Which is an English vowel?,A,K,T,1,A is one of the English vowels.
+trace_002,letter_tracing,What helps make handwriting clear?,Taking time,Pressing hard,Writing without looking,1,Slow relaxed practice helps build control.
+draw_001,drawing,How can you make a softer pencil line?,Use less pressure,Press harder,Draw faster,1,Lighter pressure can make a softer line.
+draw_002,drawing,What is a good first step for a tricky drawing?,Start with a simple shape,Erase every idea,Stop trying,1,Simple shapes give you a starting point.
+story_001,stories,What helped the seed grow?,Time and care,Being the biggest seed,Giving up,1,Growth takes time and care.
+story_002,stories,What can you do when something is new?,Try one small step,Expect to know it already,Never ask for help,1,A small first step makes a new challenge easier.
+code_001,coding,A sequence is...,Steps in an order,A kind of paint,A single sound,1,A sequence is an ordered set of steps.
+code_002,coding,What helps when a robot turns the wrong way?,Check the instructions,Blame the robot,Remove every step,1,Debugging means checking and improving instructions.
+puzzle_001,puzzles,"What comes next: 2, 4, 6?",8,7,10,1,The pattern adds two each time.
+puzzle_002,puzzles,What is a helpful puzzle strategy?,Look for a repeated clue,Guess without looking,Change every answer,1,Patterns and clues help narrow down possibilities.
+science_001,science,Which part of a plant takes in water?,Roots,Leaves,Flowers,1,Roots absorb water from the soil.
+science_002,science,What can make a shadow?,An object blocking light,A sound vibration,A smell,1,A shadow forms where an object blocks light.
+india_001,india_history,How many states does India have?,28,18,36,1,India has 28 states and 8 union territories.
+india_002,india_history,What is one way to learn about a place?,Explore people and history,Assume every place is the same,Only learn its name,1,"Places are shaped by people, language, nature, and history."
